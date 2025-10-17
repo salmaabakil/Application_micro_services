@@ -1,6 +1,6 @@
-package org.example.tp3_architecture_microservices.repository;
+package org.example.customerservice.repository;
 
-import org.example.tp3_architecture_microservices.entities.Customer;
+import org.example.customerservice.entities.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

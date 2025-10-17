@@ -1,7 +1,7 @@
-package org.example.tp3_architecture_microservices.config;
+package org.example.customerservice.config;
 
 import org.aspectj.apache.bcel.util.Repository;
-import org.example.tp3_architecture_microservices.entities.Customer;
+import org.example.customerservice.entities.Customer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;

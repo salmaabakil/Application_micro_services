@@ -1,4 +1,4 @@
-package org.example.tp3_architecture_microservices.entities;
+package org.example.customerservice.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
